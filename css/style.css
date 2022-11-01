@@ -1,0 +1,229 @@
+.header .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.header
+{
+	height:60px;
+	background-color:black;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .boxa
+{
+	height:55px;
+	width:210px;
+	background-color:white;
+}
+.header .header-fc .boxb
+{
+	height:55px;
+	width:450px;
+	background-color:white;
+}
+.header .header-fc .boxc
+{
+	height:55px;
+	width:210px;
+	background-color:white;
+}
+.body .wrapper
+{
+	width:60%;
+	margin:auto;
+}
+.body
+{
+	height:435px;
+	background-color:blue;
+}
+.body .body-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.body .body-fc .boxa
+{
+	height:100px;
+	width:538px;
+	background-color:white;
+	margin-top:40px;
+}
+.body .body-fc .boxb
+{
+	height:75px;
+	width:538px;
+	background-color:white;
+	margin-top:40px;
+}
+.body .body-fc .boxc
+{
+	height:45px;
+	width:300px;
+	background-color:white;
+	margin-top:40px;
+}
+.image .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.image 
+{
+	height:1040px;
+	background-color:black;
+}
+.image .image-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.image .image-fc .boxa
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxb
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxc
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxd
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxe
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxf
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxg
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxh
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxi
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxj
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxk
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxl
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxm
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxn
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxo
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.image .image-fc .boxp
+{
+	height:235px;
+	width:312px;
+	background-color:lightblue;
+	margin-top:20px;
+}
+.footer .wrapper
+{
+	width:50%;
+	margin:auto;
+}
+.footer
+{
+	height:180px;
+	background-color:white;
+
+}
+.footer .footer-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.footer .footer-fc .boxa
+{
+	height:45px;
+	width:500px;
+	background-color:pink;
+	margin-top:40px;
+}
+.footer .footer-fc .boxb
+{
+	height:45px;
+	width:325px;
+	background-color:pink;
+	margin-top:40px;
+}
